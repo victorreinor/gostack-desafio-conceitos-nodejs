@@ -1,6 +1,10 @@
-# Desafio (Conceitos de Nodejs)
+<img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
+
+# Desafio: Conceitos do Node.js
 
 Primeiro desafio da GoStack (Conceitos de NodeJs).
+
+[Link do primeiro desafio](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-nodejs "Link do primeiro desafio")
 
 ## Passo-a-passo para rodar a aplicação
 
